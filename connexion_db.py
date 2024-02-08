@@ -11,7 +11,7 @@ def get_db():
             # host="serveurmysql",
             user="aorngom",
             password="Tawoukeurgui@2009",
-            database="BDD_Base_De_Données",
+            database="BDD_Base_De_Donnees",
             charset='utf8mb4',
             cursorclass=pymysql.cursors.DictCursor
         )
